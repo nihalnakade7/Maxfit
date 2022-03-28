@@ -6,4 +6,4 @@
 
 
 <h2> Login Page </h2>
-<img src="Images/Image5.png">
+<img src="Images/image5.png">
