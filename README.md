@@ -9,3 +9,18 @@
 <img src="Images/image5.png">
 <p> For login LinkedIn SSO is Used</p>
 
+<hr/>
+
+<h3>Entity Relationship Diagram</h3>
+<img src="Images/ER.png">
+
+<hr/>
+
+<h3> Overview of Permission Setup </h3>
+<img src="Images/overview_of_obj_permission_setup.png">
+
+<hr/>
+
+
+
+
