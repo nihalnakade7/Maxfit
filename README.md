@@ -22,12 +22,12 @@
 <hr />
 
 <h3> Community Home Page </h3>
-<img src="image1.PNG">
+<img src="Images/image1.PNG">
 
 <hr />
 
 <h3> Community Page displaying Upcomming and Past Events </h3>
-<img src="image2.PNG">
+<img src="Images/image2.PNG">
 
 
 
