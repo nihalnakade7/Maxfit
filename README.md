@@ -5,5 +5,7 @@
 <p>Location, Event Organizer, Event, Attendees, Speaker, Event-Attendee, Event-Speaker</p>
 
 
-<h2> Login Page </h2>
+<center><h2> Login Page </h2></center>
 <img src="Images/image5.png">
+<p> For login LinkedIn SSO is Used</p>
+
