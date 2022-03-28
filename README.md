@@ -12,7 +12,7 @@
 
 
 <h3>Entity Relationship Diagram</h3>
-<img src="Images/ER.png">
+<img src="Images/ER.PNG">
 
 
 
