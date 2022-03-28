@@ -19,6 +19,19 @@
 <h3> Overview of Permission Setup </h3>
 <img src="Images/overview_of_obj_permission_setup.PNG">
 
+<hr />
+
+<h3> Community Home Page </h3>
+<img src="image1.PNG">
+
+<hr />
+
+<h3> Community Page displaying Upcomming and Past Events </h3>
+<img src="image2.PNG">
+
+
+
+
 
 
 
